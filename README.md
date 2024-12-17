@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 I’m currently working on: Improving my skills in Android development and Augmented Reality.<br>🤝 I’m looking to collaborate on: Exciting projects in mobile app development, AI/ML, AR/VR, or anything related to innovative UI/UX design.<br>⚡ Fun fact: When I’m not coding or working, I love reading, collecting vinyls/cds, fashion, etc.<br>
+🚀 I’m currently working on: Improving my skills in **Android development and Augmented Reality**.<br>🤝 I’m looking to collaborate on: **Exciting projects in mobile app development, AI/ML, AR/VR, or anything related to innovative UI/UX design.** <br>⚡ Fun fact: When I’m not coding or working, I love reading, collecting vinyls/cds, fashion, etc.<br>
 
 
 ## 🌐 Socials:
